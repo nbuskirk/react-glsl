@@ -1,6 +1,6 @@
-<h1>Simple React Boilerplate</h1>
+<h1>React GLSL Framework Demo</h1>
 <pre>
-1. git clone https://github.com/nbuskirk/react-bp.git /var/www/newProject
+1. git clone git https://github.com/nbuskirk/react-glsl.git /var/www/newProject
 2. cd /var/www/newProject && npm install && npm run dev
 3. Browse http://localhost:8090
 --
